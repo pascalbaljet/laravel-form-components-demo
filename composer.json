@@ -15,7 +15,9 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/breeze": "^0.0.5",
         "laravel/framework": "^8.12",
-        "laravel/tinker": "^2.5"
+        "laravel/tinker": "^2.5",
+        "livewire/livewire": "^2.3",
+        "protonemedia/laravel-form-components": "^2.1"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
