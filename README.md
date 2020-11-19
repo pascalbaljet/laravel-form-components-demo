@@ -3,7 +3,7 @@
 * [Live Stream 19 November 14:00 CET](https://www.youtube.com/watch?v=7eNZS4U7xyM)
 * [Package used in the stream](https://github.com/protonemedia/laravel-form-components)
 
-<img src="https://raw.githubusercontent.com/pascalbaljet/laravel-form-components-demo/main/screenshot.png" />
+<img src="https://raw.githubusercontent.com/pascalbaljet/laravel-form-components-demo/master/screenshot.png" />
 
 ## Code of Conduct
 
